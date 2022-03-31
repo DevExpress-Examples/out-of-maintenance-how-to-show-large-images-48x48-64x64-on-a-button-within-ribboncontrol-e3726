@@ -14,10 +14,7 @@
 * [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 <!-- default file list end -->
 # How to show large images (48x48, 64x64) on a button within RibbonControl
-<p>This example illustrates how to show large images (48x48, 64x64) on a button within RibbonControl in older versions of our components. 
-  
-In newer versions, drop the <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.DefaultBarAndDockingController">DefaultBarAndDockingController</a> or <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.BarAndDockingController">BarAndDockingController</a> component and use the 
-  <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.RibbonProperties.DefaultLargeGlyphSize">DefaultBarAndDockingController.Controller.PropertiesRibbon.DefaultLargeGlyphSize</a> and   <a href="https://docs.devexpress.com/WindowsForms/DevExpress.XtraBars.RibbonProperties.DefaultGlyphSize">DefaultBarAndDockingController.Controller.PropertiesRibbon.DefaultGlyphSize</a> properties to change the default glyph size.</p>
+
 
 <p>For more information please review the <a href="https://www.devexpress.com/Support/Center/p/K18556">How to show large images (48x48, 64x64) on a button within RibbonControl</a> article.</p>
 
